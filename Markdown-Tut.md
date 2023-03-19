@@ -2,7 +2,6 @@
 
 <details id=0>
 <summary>Dropdown</summary>
-## Sonnet 1000
   In times of turmoil, when the world seems bleak,
   And hope is lost amidst the endless strife,
   We seek a light to guide us as we seek
